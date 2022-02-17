@@ -6,8 +6,8 @@
 -------------------------Admin Panel Information--------------------------
 
 	Link: http://localhost/Wordpress_Ecommerce/wp-login.php
-	Email:	shakziaurrahmantito@gmail.com
-	Password: 123456
+	Email:	jiya
+	Password: 12345678
 
 -------------------------Developer Information--------------------------
 
